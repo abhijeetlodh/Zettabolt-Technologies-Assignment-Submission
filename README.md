@@ -21,12 +21,13 @@ Run the following commands in your terminal:
 
 First, run:
 
-   ```bash
-   ./run.sh
+      ```bash
+         ./run.sh
+
 
 Then, run the main Python script:
-   ``` bash 
-python main.py
+      ```bash
+      python main.py
 
 
 Instantiate Wikipedia_Scraper: Scrapes text chunks from a Wikipedia page.
