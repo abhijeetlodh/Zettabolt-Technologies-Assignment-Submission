@@ -22,7 +22,7 @@ Run the following commands in your terminal:
 First, run:
 
       ```bash
-         ./run.sh
+            ./run.sh
 
 
 Then, run the main Python script:
