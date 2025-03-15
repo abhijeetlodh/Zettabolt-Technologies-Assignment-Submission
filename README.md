@@ -21,13 +21,15 @@ Run the following commands in your terminal:
 
 First, run:
 
-      ```bash
-            ./run.sh
+```bash
+./run.sh
+```
 
 
 Then, run the main Python script:
-      ```bash
-      python main.py
+```bash
+python main.py
+```
 
 
 Instantiate Wikipedia_Scraper: Scrapes text chunks from a Wikipedia page.
@@ -36,7 +38,7 @@ Use Document_Retriever: Retrieves the top 3 relevant chunks based on the generat
 Use Text_Processor: Preprocesses the top chunks asynchronously.
 Results: Finally, it logs the results in output.log.#
 
- Zettabolt-Technologies-Assignment-Submission
+### Zettabolt-Technologies-Assignment-Submission
 
 | Task                   | Description                                           | Output                            |
 |------------------------|-------------------------------------------------------|-----------------------------------|
