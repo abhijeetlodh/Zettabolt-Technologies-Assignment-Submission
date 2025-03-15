@@ -1,0 +1,5 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+sentence-transformers==3.0.1  # Latest stable version compatible with older fsspec
+numpy==1.26.4
+fsspec==2022.02.0  # Pin to match s3fs requirement in SageMaker Studio Lab
